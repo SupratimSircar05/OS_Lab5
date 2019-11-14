@@ -1,3 +1,6 @@
+// Round robin scheduling algorithm
+// user enters arrival time, burst time of 5 processes and Time Quantum = 2
+
 #include<stdio.h>
 
 int main() {

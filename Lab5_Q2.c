@@ -1,3 +1,6 @@
+// Non-preemptive priority scheduling algorithm
+// user enters arrival time, burst time and priority number of 5 processes
+
 #include <stdio.h>
 #include <stdlib.h>
 

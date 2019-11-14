@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OS_Lab_Q1.dir/Lab5_Q1.c.o  -o OS_Lab_Q1 
